@@ -1,8 +1,8 @@
 # 🚀 Md Sameul Hasan — Professional Portfolio
 
-> **Software Engineering Student & AI Systems Developer**  
+> **4th-Year Software Engineering Student & AI Systems Developer**  
 > Department of Software Engineering, Daffodil International University (DIU) • President, DIU Robotics Club  
-> *A high-performance, light-themed, minimal developer portfolio featuring glassmorphism, subtle maroon gradients, and autonomous workflow showcases.*
+> *A high-performance, light-themed, minimal developer portfolio featuring glassmorphism, subtle maroon gradients, left-to-right project & certificate showcases, and autonomous workflows.*
 
 ---
 
@@ -11,8 +11,14 @@
 ### 🎨 Refined Light Theme & Minimal Maroon Palette
 - **Frosted Glass Panels (Glassmorphism)**: Backdrops styled with `backdrop-filter: blur(20px)`, translucent borders (`rgba(255, 255, 255, 0.85)`), and delicate inner bevels.
 - **Minimal Maroon Accent**: Deep, mature burgundy and maroon hues (`#701221` / `#851426` / `#5c0f1c`) applied to subtle gradient text, active tags, status badges, and interactive hover highlights.
-- **Responsive Mobile Layout**: On desktop, features an elevated developer snapshot card with Sameul's genuine photograph (`Sameul.png`). On mobile and tablet screens (`< lg`), the large photo card is hidden to provide an uncluttered, fast-loading mobile experience.
+- **Full-Width Formal Education Banner**: Spans 100% container width, highlighting B.Sc. in Software Engineering, Daffodil International University (DIU), and 4th-Year Senior Undergraduate status.
 - **Custom Brand Avatar**: The sticky glass navigation bar features Sameul's framed profile image rather than a generic text monogram.
+
+---
+
+### ⚡ Selected Engineering Works (Left-to-Right Auto-Sliding Showcase)
+- **Continuous Left-to-Right Auto-Slide**: Highlighting production builds (SLM Canvas, SkinX, Shohayok, ICADHI 2026, FifthEye AI, WFK Platform, Medicine Store System) in a continuous left-to-right slideshow with pause-on-hover and Prev/Next controls.
+- **Interactive Deep Dives**: Clicking any project opens the comprehensive System Architecture Flow modal with key engineering takeaways and tech stacks.
 
 ---
 
@@ -20,17 +26,6 @@
 - **Infinite Marquee Carousel**: Features all 13 verified credentials (AWS Cloud Security, DataCamp Machine Learning, Python, Intermediate SQL, CodeSignal Web & Laravel, Udemy Figma, Simplilearn) continuously auto-sliding from **left to right**.
 - **Interactive Inspection**: Hovering over any certificate pauses the marquee. Clicking any certificate opens a full **Lightbox Zoom Modal** with issuer verification, completion year, and technical skills gained.
 - **Manual Controls**: Includes **Pause / Play** toggle and **Left / Right** step navigation buttons.
-
----
-
-### ⚡ Selected Engineering Works & Deep Dive Blueprints
-- **SLM Canvas — Offline Code Playground**: Local quantized small language models (Qwen 2.5 Coder) generating React and Tailwind components with AST validation and Monaco Editor.
-- **SkinX — AI Dermatology Triage Platform**: Computer vision pipeline combating diagnostic bias on South Asian skin tones across 23 conditions using MedSAM, U-Net, and EfficientNet-B5.
-- **Shohayok (সহায়ক) — University Document AI**: Bilingual Bangla-English RAG assistant grounded strictly in verified institutional notices and syllabi using Gemini API and ElevenLabs audio.
-- **ICADHI 2026 Event Operations Dashboard**: Production full-stack QR registration and check-in system deployed in 7 days for 298 attendees with sub-second verification.
-- **FifthEye AI (যাচাই) — Exam Workflow Automation**: Vision LLM co-pilot assisting educators in digitizing handwritten exam scripts and providing formative rubric scoring.
-- **WFK Platform**: Modular multi-agent task routing engine coordinating autonomous sub-agents with tool-calling verification.
-- **Medicine Store Management System**: Low-level C/C++ pharmaceutical inventory and billing engine using indexed search trees and structured binary file persistence.
 
 ---
 
